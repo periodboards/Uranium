@@ -1,0 +1,3226 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A1 33110 23386
+encoding utf-8
+Sheet 4 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Diode:1N4148 D?
+U 1 1 601E66FC
+P 1200 2100
+F 0 "D?" V 1246 2021 50  0000 R CNN
+F 1 "1N4148" V 1155 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 2100 50  0001 C CNN
+	1    1200 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1200 1950 1200 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601EC83A
+P 2200 1900
+F 0 "K?" H 2200 2133 60  0000 C CNN
+F 1 "KEYSW" H 2200 1800 60  0001 C CNN
+F 2 "" H 2200 1900 60  0000 C CNN
+F 3 "" H 2200 1900 60  0000 C CNN
+	1    2200 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601EC840
+P 1900 2100
+F 0 "D?" V 1946 2021 50  0000 R CNN
+F 1 "1N4148" V 1855 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 2100 50  0001 C CNN
+	1    1900 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 1950 1900 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601F0F34
+P 2900 1900
+F 0 "K?" H 2900 2133 60  0000 C CNN
+F 1 "KEYSW" H 2900 1800 60  0001 C CNN
+F 2 "" H 2900 1900 60  0000 C CNN
+F 3 "" H 2900 1900 60  0000 C CNN
+	1    2900 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601F0F3A
+P 2600 2100
+F 0 "D?" V 2646 2021 50  0000 R CNN
+F 1 "1N4148" V 2555 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 2100 50  0001 C CNN
+	1    2600 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2600 1950 2600 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601F0F41
+P 3600 1900
+F 0 "K?" H 3600 2133 60  0000 C CNN
+F 1 "KEYSW" H 3600 1800 60  0001 C CNN
+F 2 "" H 3600 1900 60  0000 C CNN
+F 3 "" H 3600 1900 60  0000 C CNN
+	1    3600 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601F0F47
+P 3300 2100
+F 0 "D?" V 3346 2021 50  0000 R CNN
+F 1 "1N4148" V 3255 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3300 2100 50  0001 C CNN
+	1    3300 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 1950 3300 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601F691C
+P 4300 1900
+F 0 "K?" H 4300 2133 60  0000 C CNN
+F 1 "KEYSW" H 4300 1800 60  0001 C CNN
+F 2 "" H 4300 1900 60  0000 C CNN
+F 3 "" H 4300 1900 60  0000 C CNN
+	1    4300 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601F6922
+P 4000 2100
+F 0 "D?" V 4046 2021 50  0000 R CNN
+F 1 "1N4148" V 3955 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4000 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4000 2100 50  0001 C CNN
+	1    4000 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 1950 4000 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601F6929
+P 5000 1900
+F 0 "K?" H 5000 2133 60  0000 C CNN
+F 1 "KEYSW" H 5000 1800 60  0001 C CNN
+F 2 "" H 5000 1900 60  0000 C CNN
+F 3 "" H 5000 1900 60  0000 C CNN
+	1    5000 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601F692F
+P 4700 2100
+F 0 "D?" V 4746 2021 50  0000 R CNN
+F 1 "1N4148" V 4655 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4700 2100 50  0001 C CNN
+	1    4700 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 1950 4700 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601F6936
+P 5700 1900
+F 0 "K?" H 5700 2133 60  0000 C CNN
+F 1 "KEYSW" H 5700 1800 60  0001 C CNN
+F 2 "" H 5700 1900 60  0000 C CNN
+F 3 "" H 5700 1900 60  0000 C CNN
+	1    5700 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601F693C
+P 5400 2100
+F 0 "D?" V 5446 2021 50  0000 R CNN
+F 1 "1N4148" V 5355 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 2100 50  0001 C CNN
+	1    5400 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 1950 5400 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601F6943
+P 6400 1900
+F 0 "K?" H 6400 2133 60  0000 C CNN
+F 1 "KEYSW" H 6400 1800 60  0001 C CNN
+F 2 "" H 6400 1900 60  0000 C CNN
+F 3 "" H 6400 1900 60  0000 C CNN
+	1    6400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601F6949
+P 6100 2100
+F 0 "D?" V 6146 2021 50  0000 R CNN
+F 1 "1N4148" V 6055 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 2100 50  0001 C CNN
+	1    6100 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6100 1950 6100 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601FACDC
+P 7100 1900
+F 0 "K?" H 7100 2133 60  0000 C CNN
+F 1 "KEYSW" H 7100 1800 60  0001 C CNN
+F 2 "" H 7100 1900 60  0000 C CNN
+F 3 "" H 7100 1900 60  0000 C CNN
+	1    7100 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601FACE2
+P 6800 2100
+F 0 "D?" V 6846 2021 50  0000 R CNN
+F 1 "1N4148" V 6755 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6800 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6800 2100 50  0001 C CNN
+	1    6800 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6800 1950 6800 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601FACE9
+P 7800 1900
+F 0 "K?" H 7800 2133 60  0000 C CNN
+F 1 "KEYSW" H 7800 1800 60  0001 C CNN
+F 2 "" H 7800 1900 60  0000 C CNN
+F 3 "" H 7800 1900 60  0000 C CNN
+	1    7800 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601FACEF
+P 7500 2100
+F 0 "D?" V 7546 2021 50  0000 R CNN
+F 1 "1N4148" V 7455 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7500 2100 50  0001 C CNN
+	1    7500 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 1950 7500 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601FACF6
+P 8500 1900
+F 0 "K?" H 8500 2133 60  0000 C CNN
+F 1 "KEYSW" H 8500 1800 60  0001 C CNN
+F 2 "" H 8500 1900 60  0000 C CNN
+F 3 "" H 8500 1900 60  0000 C CNN
+	1    8500 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601FACFC
+P 8200 2100
+F 0 "D?" V 8246 2021 50  0000 R CNN
+F 1 "1N4148" V 8155 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 2100 50  0001 C CNN
+	1    8200 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8200 1950 8200 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 601FAD03
+P 9200 1900
+F 0 "K?" H 9200 2133 60  0000 C CNN
+F 1 "KEYSW" H 9200 1800 60  0001 C CNN
+F 2 "" H 9200 1900 60  0000 C CNN
+F 3 "" H 9200 1900 60  0000 C CNN
+	1    9200 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 601FAD09
+P 8900 2100
+F 0 "D?" V 8946 2021 50  0000 R CNN
+F 1 "1N4148" V 8855 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8900 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8900 2100 50  0001 C CNN
+	1    8900 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8900 1950 8900 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60207652
+P 9900 1900
+F 0 "K?" H 9900 2133 60  0000 C CNN
+F 1 "KEYSW" H 9900 1800 60  0001 C CNN
+F 2 "" H 9900 1900 60  0000 C CNN
+F 3 "" H 9900 1900 60  0000 C CNN
+	1    9900 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60207658
+P 9600 2100
+F 0 "D?" V 9646 2021 50  0000 R CNN
+F 1 "1N4148" V 9555 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9600 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 2100 50  0001 C CNN
+	1    9600 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9600 1950 9600 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6020765F
+P 10600 1900
+F 0 "K?" H 10600 2133 60  0000 C CNN
+F 1 "KEYSW" H 10600 1800 60  0001 C CNN
+F 2 "" H 10600 1900 60  0000 C CNN
+F 3 "" H 10600 1900 60  0000 C CNN
+	1    10600 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60207665
+P 10300 2100
+F 0 "D?" V 10346 2021 50  0000 R CNN
+F 1 "1N4148" V 10255 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 2100 50  0001 C CNN
+	1    10300 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10300 1950 10300 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6020766C
+P 11300 1900
+F 0 "K?" H 11300 2133 60  0000 C CNN
+F 1 "KEYSW" H 11300 1800 60  0001 C CNN
+F 2 "" H 11300 1900 60  0000 C CNN
+F 3 "" H 11300 1900 60  0000 C CNN
+	1    11300 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60207672
+P 11000 2100
+F 0 "D?" V 11046 2021 50  0000 R CNN
+F 1 "1N4148" V 10955 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11000 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11000 2100 50  0001 C CNN
+	1    11000 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11000 1950 11000 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60207679
+P 12000 1900
+F 0 "K?" H 12000 2133 60  0000 C CNN
+F 1 "KEYSW" H 12000 1800 60  0001 C CNN
+F 2 "" H 12000 1900 60  0000 C CNN
+F 3 "" H 12000 1900 60  0000 C CNN
+	1    12000 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6020767F
+P 11700 2100
+F 0 "D?" V 11746 2021 50  0000 R CNN
+F 1 "1N4148" V 11655 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11700 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11700 2100 50  0001 C CNN
+	1    11700 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11700 1950 11700 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60207686
+P 12700 1900
+F 0 "K?" H 12700 2133 60  0000 C CNN
+F 1 "KEYSW" H 12700 1800 60  0001 C CNN
+F 2 "" H 12700 1900 60  0000 C CNN
+F 3 "" H 12700 1900 60  0000 C CNN
+	1    12700 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6020768C
+P 12400 2100
+F 0 "D?" V 12446 2021 50  0000 R CNN
+F 1 "1N4148" V 12355 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 12400 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12400 2100 50  0001 C CNN
+	1    12400 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12400 1950 12400 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60207693
+P 13400 1900
+F 0 "K?" H 13400 2133 60  0000 C CNN
+F 1 "KEYSW" H 13400 1800 60  0001 C CNN
+F 2 "" H 13400 1900 60  0000 C CNN
+F 3 "" H 13400 1900 60  0000 C CNN
+	1    13400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60207699
+P 13100 2100
+F 0 "D?" V 13146 2021 50  0000 R CNN
+F 1 "1N4148" V 13055 2021 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 13100 1925 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 13100 2100 50  0001 C CNN
+	1    13100 2100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13100 1950 13100 1900
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6024238F
+P 1500 2600
+F 0 "K?" H 1500 2833 60  0000 C CNN
+F 1 "KEYSW" H 1500 2500 60  0001 C CNN
+F 2 "" H 1500 2600 60  0000 C CNN
+F 3 "" H 1500 2600 60  0000 C CNN
+	1    1500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60242395
+P 1200 2800
+F 0 "D?" V 1246 2721 50  0000 R CNN
+F 1 "1N4148" V 1155 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 2800 50  0001 C CNN
+	1    1200 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1200 2650 1200 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6024239C
+P 2200 2600
+F 0 "K?" H 2200 2833 60  0000 C CNN
+F 1 "KEYSW" H 2200 2500 60  0001 C CNN
+F 2 "" H 2200 2600 60  0000 C CNN
+F 3 "" H 2200 2600 60  0000 C CNN
+	1    2200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423A2
+P 1900 2800
+F 0 "D?" V 1946 2721 50  0000 R CNN
+F 1 "1N4148" V 1855 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 2800 50  0001 C CNN
+	1    1900 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 2650 1900 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 602423A9
+P 2900 2600
+F 0 "K?" H 2900 2833 60  0000 C CNN
+F 1 "KEYSW" H 2900 2500 60  0001 C CNN
+F 2 "" H 2900 2600 60  0000 C CNN
+F 3 "" H 2900 2600 60  0000 C CNN
+	1    2900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423AF
+P 2600 2800
+F 0 "D?" V 2646 2721 50  0000 R CNN
+F 1 "1N4148" V 2555 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 2800 50  0001 C CNN
+	1    2600 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2600 2650 2600 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 602423B6
+P 3600 2600
+F 0 "K?" H 3600 2833 60  0000 C CNN
+F 1 "KEYSW" H 3600 2500 60  0001 C CNN
+F 2 "" H 3600 2600 60  0000 C CNN
+F 3 "" H 3600 2600 60  0000 C CNN
+	1    3600 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423BC
+P 3300 2800
+F 0 "D?" V 3346 2721 50  0000 R CNN
+F 1 "1N4148" V 3255 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3300 2800 50  0001 C CNN
+	1    3300 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 2650 3300 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 602423C3
+P 4300 2600
+F 0 "K?" H 4300 2833 60  0000 C CNN
+F 1 "KEYSW" H 4300 2500 60  0001 C CNN
+F 2 "" H 4300 2600 60  0000 C CNN
+F 3 "" H 4300 2600 60  0000 C CNN
+	1    4300 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423C9
+P 4000 2800
+F 0 "D?" V 4046 2721 50  0000 R CNN
+F 1 "1N4148" V 3955 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4000 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4000 2800 50  0001 C CNN
+	1    4000 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 2650 4000 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 602423D0
+P 5000 2600
+F 0 "K?" H 5000 2833 60  0000 C CNN
+F 1 "KEYSW" H 5000 2500 60  0001 C CNN
+F 2 "" H 5000 2600 60  0000 C CNN
+F 3 "" H 5000 2600 60  0000 C CNN
+	1    5000 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423D6
+P 4700 2800
+F 0 "D?" V 4746 2721 50  0000 R CNN
+F 1 "1N4148" V 4655 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4700 2800 50  0001 C CNN
+	1    4700 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 2650 4700 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 602423DD
+P 5700 2600
+F 0 "K?" H 5700 2833 60  0000 C CNN
+F 1 "KEYSW" H 5700 2500 60  0001 C CNN
+F 2 "" H 5700 2600 60  0000 C CNN
+F 3 "" H 5700 2600 60  0000 C CNN
+	1    5700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423E3
+P 5400 2800
+F 0 "D?" V 5446 2721 50  0000 R CNN
+F 1 "1N4148" V 5355 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 2800 50  0001 C CNN
+	1    5400 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 2650 5400 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 602423EA
+P 6400 2600
+F 0 "K?" H 6400 2833 60  0000 C CNN
+F 1 "KEYSW" H 6400 2500 60  0001 C CNN
+F 2 "" H 6400 2600 60  0000 C CNN
+F 3 "" H 6400 2600 60  0000 C CNN
+	1    6400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423F0
+P 6100 2800
+F 0 "D?" V 6146 2721 50  0000 R CNN
+F 1 "1N4148" V 6055 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 2800 50  0001 C CNN
+	1    6100 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6100 2650 6100 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 602423F7
+P 7100 2600
+F 0 "K?" H 7100 2833 60  0000 C CNN
+F 1 "KEYSW" H 7100 2500 60  0001 C CNN
+F 2 "" H 7100 2600 60  0000 C CNN
+F 3 "" H 7100 2600 60  0000 C CNN
+	1    7100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 602423FD
+P 6800 2800
+F 0 "D?" V 6846 2721 50  0000 R CNN
+F 1 "1N4148" V 6755 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6800 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6800 2800 50  0001 C CNN
+	1    6800 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6800 2650 6800 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60242404
+P 7800 2600
+F 0 "K?" H 7800 2833 60  0000 C CNN
+F 1 "KEYSW" H 7800 2500 60  0001 C CNN
+F 2 "" H 7800 2600 60  0000 C CNN
+F 3 "" H 7800 2600 60  0000 C CNN
+	1    7800 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6024240A
+P 7500 2800
+F 0 "D?" V 7546 2721 50  0000 R CNN
+F 1 "1N4148" V 7455 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7500 2800 50  0001 C CNN
+	1    7500 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 2650 7500 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60242411
+P 8500 2600
+F 0 "K?" H 8500 2833 60  0000 C CNN
+F 1 "KEYSW" H 8500 2500 60  0001 C CNN
+F 2 "" H 8500 2600 60  0000 C CNN
+F 3 "" H 8500 2600 60  0000 C CNN
+	1    8500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60242417
+P 8200 2800
+F 0 "D?" V 8246 2721 50  0000 R CNN
+F 1 "1N4148" V 8155 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 2800 50  0001 C CNN
+	1    8200 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8200 2650 8200 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6024241E
+P 9200 2600
+F 0 "K?" H 9200 2833 60  0000 C CNN
+F 1 "KEYSW" H 9200 2500 60  0001 C CNN
+F 2 "" H 9200 2600 60  0000 C CNN
+F 3 "" H 9200 2600 60  0000 C CNN
+	1    9200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60242424
+P 8900 2800
+F 0 "D?" V 8946 2721 50  0000 R CNN
+F 1 "1N4148" V 8855 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8900 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8900 2800 50  0001 C CNN
+	1    8900 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8900 2650 8900 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6024242B
+P 9900 2600
+F 0 "K?" H 9900 2833 60  0000 C CNN
+F 1 "KEYSW" H 9900 2500 60  0001 C CNN
+F 2 "" H 9900 2600 60  0000 C CNN
+F 3 "" H 9900 2600 60  0000 C CNN
+	1    9900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60242431
+P 9600 2800
+F 0 "D?" V 9646 2721 50  0000 R CNN
+F 1 "1N4148" V 9555 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9600 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 2800 50  0001 C CNN
+	1    9600 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9600 2650 9600 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60242438
+P 10600 2600
+F 0 "K?" H 10600 2833 60  0000 C CNN
+F 1 "KEYSW" H 10600 2500 60  0001 C CNN
+F 2 "" H 10600 2600 60  0000 C CNN
+F 3 "" H 10600 2600 60  0000 C CNN
+	1    10600 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6024243E
+P 10300 2800
+F 0 "D?" V 10346 2721 50  0000 R CNN
+F 1 "1N4148" V 10255 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 2800 50  0001 C CNN
+	1    10300 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10300 2650 10300 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60242445
+P 11300 2600
+F 0 "K?" H 11300 2833 60  0000 C CNN
+F 1 "KEYSW" H 11300 2500 60  0001 C CNN
+F 2 "" H 11300 2600 60  0000 C CNN
+F 3 "" H 11300 2600 60  0000 C CNN
+	1    11300 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6024244B
+P 11000 2800
+F 0 "D?" V 11046 2721 50  0000 R CNN
+F 1 "1N4148" V 10955 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11000 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11000 2800 50  0001 C CNN
+	1    11000 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11000 2650 11000 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 60242452
+P 12000 2600
+F 0 "K?" H 12000 2833 60  0000 C CNN
+F 1 "KEYSW" H 12000 2500 60  0001 C CNN
+F 2 "" H 12000 2600 60  0000 C CNN
+F 3 "" H 12000 2600 60  0000 C CNN
+	1    12000 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60242458
+P 11700 2800
+F 0 "D?" V 11746 2721 50  0000 R CNN
+F 1 "1N4148" V 11655 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11700 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11700 2800 50  0001 C CNN
+	1    11700 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11700 2650 11700 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6024245F
+P 12700 2600
+F 0 "K?" H 12700 2833 60  0000 C CNN
+F 1 "KEYSW" H 12700 2500 60  0001 C CNN
+F 2 "" H 12700 2600 60  0000 C CNN
+F 3 "" H 12700 2600 60  0000 C CNN
+	1    12700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60242465
+P 12400 2800
+F 0 "D?" V 12446 2721 50  0000 R CNN
+F 1 "1N4148" V 12355 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 12400 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12400 2800 50  0001 C CNN
+	1    12400 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12400 2650 12400 2600
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6024246C
+P 13400 2600
+F 0 "K?" H 13400 2833 60  0000 C CNN
+F 1 "KEYSW" H 13400 2500 60  0001 C CNN
+F 2 "" H 13400 2600 60  0000 C CNN
+F 3 "" H 13400 2600 60  0000 C CNN
+	1    13400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 60242472
+P 13100 2800
+F 0 "D?" V 13146 2721 50  0000 R CNN
+F 1 "1N4148" V 13055 2721 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 13100 2625 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 13100 2800 50  0001 C CNN
+	1    13100 2800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13100 2650 13100 2600
+Wire Wire Line
+	1200 2250 1900 2250
+Connection ~ 1900 2250
+Wire Wire Line
+	1900 2250 2600 2250
+Connection ~ 2600 2250
+Wire Wire Line
+	2600 2250 3300 2250
+Connection ~ 3300 2250
+Wire Wire Line
+	3300 2250 4000 2250
+Connection ~ 4000 2250
+Wire Wire Line
+	4000 2250 4700 2250
+Connection ~ 4700 2250
+Wire Wire Line
+	4700 2250 5400 2250
+Connection ~ 5400 2250
+Wire Wire Line
+	5400 2250 6100 2250
+Connection ~ 6100 2250
+Wire Wire Line
+	6100 2250 6800 2250
+Connection ~ 6800 2250
+Wire Wire Line
+	6800 2250 7500 2250
+Connection ~ 7500 2250
+Wire Wire Line
+	7500 2250 8200 2250
+Connection ~ 8200 2250
+Wire Wire Line
+	8200 2250 8900 2250
+Connection ~ 8900 2250
+Wire Wire Line
+	8900 2250 9600 2250
+Connection ~ 9600 2250
+Wire Wire Line
+	9600 2250 10300 2250
+Connection ~ 10300 2250
+Wire Wire Line
+	10300 2250 11000 2250
+Connection ~ 11000 2250
+Wire Wire Line
+	11000 2250 11700 2250
+Connection ~ 11700 2250
+Wire Wire Line
+	11700 2250 12400 2250
+Connection ~ 12400 2250
+Wire Wire Line
+	12400 2250 13100 2250
+Wire Wire Line
+	13100 2950 12400 2950
+Connection ~ 1900 2950
+Wire Wire Line
+	1900 2950 1200 2950
+Connection ~ 2600 2950
+Wire Wire Line
+	2600 2950 1900 2950
+Connection ~ 3300 2950
+Wire Wire Line
+	3300 2950 2600 2950
+Connection ~ 4000 2950
+Wire Wire Line
+	4000 2950 3300 2950
+Connection ~ 4700 2950
+Wire Wire Line
+	4700 2950 4000 2950
+Connection ~ 5400 2950
+Wire Wire Line
+	5400 2950 4700 2950
+Connection ~ 6100 2950
+Wire Wire Line
+	6100 2950 5400 2950
+Connection ~ 6800 2950
+Wire Wire Line
+	6800 2950 6100 2950
+Connection ~ 7500 2950
+Wire Wire Line
+	7500 2950 6800 2950
+Connection ~ 8200 2950
+Wire Wire Line
+	8200 2950 7500 2950
+Connection ~ 8900 2950
+Wire Wire Line
+	8900 2950 8200 2950
+Connection ~ 9600 2950
+Wire Wire Line
+	9600 2950 8900 2950
+Connection ~ 10300 2950
+Wire Wire Line
+	10300 2950 9600 2950
+Connection ~ 11000 2950
+Wire Wire Line
+	11000 2950 10300 2950
+Connection ~ 11700 2950
+Wire Wire Line
+	11700 2950 11000 2950
+Connection ~ 12400 2950
+Wire Wire Line
+	12400 2950 11700 2950
+Wire Wire Line
+	1800 2600 1800 1900
+Wire Wire Line
+	1800 3300 1800 2600
+Wire Wire Line
+	5300 2600 5300 1900
+Wire Wire Line
+	5300 3300 5300 2600
+Wire Wire Line
+	5300 2600 5350 2600
+Connection ~ 5300 2600
+Wire Wire Line
+	6000 2600 6000 1900
+Wire Wire Line
+	6000 3300 6000 2600
+Wire Wire Line
+	6000 2600 6050 2600
+Connection ~ 6000 2600
+Connection ~ 1800 2600
+Connection ~ 2500 2600
+Wire Wire Line
+	2500 3300 2500 2600
+Wire Wire Line
+	3900 1900 3900 2600
+Connection ~ 3900 2600
+Wire Wire Line
+	3900 2600 3900 3300
+Wire Wire Line
+	3200 1900 3200 2600
+Connection ~ 3200 2600
+Wire Wire Line
+	3200 2600 3200 3300
+Wire Wire Line
+	4600 1900 4600 2600
+Connection ~ 4600 2600
+Wire Wire Line
+	4600 2600 4600 3300
+Wire Wire Line
+	6700 1900 6700 2600
+Connection ~ 6700 2600
+Wire Wire Line
+	6700 2600 6700 3300
+Wire Wire Line
+	7400 1900 7400 2600
+Connection ~ 7400 2600
+Wire Wire Line
+	7400 2600 7400 3300
+Wire Wire Line
+	8100 1900 8100 2600
+Connection ~ 8100 2600
+Wire Wire Line
+	8100 2600 8100 3300
+Wire Wire Line
+	8800 1900 8800 2600
+Connection ~ 8800 2600
+Wire Wire Line
+	8800 2600 8800 3300
+Wire Wire Line
+	9500 1900 9500 2600
+Connection ~ 9500 2600
+Wire Wire Line
+	9500 2600 9500 3300
+Wire Wire Line
+	10200 1900 10200 2600
+Connection ~ 10200 2600
+Wire Wire Line
+	10200 2600 10200 3300
+Wire Wire Line
+	10900 1900 10900 2600
+Connection ~ 10900 2600
+Wire Wire Line
+	10900 2600 10900 3300
+Wire Wire Line
+	11600 1900 11600 2600
+Connection ~ 11600 2600
+Wire Wire Line
+	11600 2600 11600 3300
+Wire Wire Line
+	12300 1900 12300 2600
+Connection ~ 12300 2600
+Wire Wire Line
+	12300 2600 12300 3300
+Wire Wire Line
+	13000 1900 13000 2600
+Connection ~ 13000 2600
+Wire Wire Line
+	13000 2600 13000 3300
+Wire Wire Line
+	13700 1900 13700 2600
+Connection ~ 13700 2600
+Wire Wire Line
+	13700 2600 13700 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6031F059
+P 1500 1900
+F 0 "K?" H 1500 2133 60  0000 C CNN
+F 1 "KEYSW" H 1500 1800 60  0001 C CNN
+F 2 "" H 1500 1900 60  0000 C CNN
+F 3 "" H 1500 1900 60  0000 C CNN
+	1    1500 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2500 1900 2500 2600
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C50DD
+P 1200 3500
+F 0 "D?" V 1246 3421 50  0000 R CNN
+F 1 "1N4148" V 1155 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 3500 50  0001 C CNN
+	1    1200 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1200 3350 1200 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C50E4
+P 2200 3300
+F 0 "K?" H 2200 3533 60  0000 C CNN
+F 1 "KEYSW" H 2200 3200 60  0001 C CNN
+F 2 "" H 2200 3300 60  0000 C CNN
+F 3 "" H 2200 3300 60  0000 C CNN
+	1    2200 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C50EA
+P 1900 3500
+F 0 "D?" V 1946 3421 50  0000 R CNN
+F 1 "1N4148" V 1855 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 3500 50  0001 C CNN
+	1    1900 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 3350 1900 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C50F1
+P 2900 3300
+F 0 "K?" H 2900 3533 60  0000 C CNN
+F 1 "KEYSW" H 2900 3200 60  0001 C CNN
+F 2 "" H 2900 3300 60  0000 C CNN
+F 3 "" H 2900 3300 60  0000 C CNN
+	1    2900 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C50F7
+P 2600 3500
+F 0 "D?" V 2646 3421 50  0000 R CNN
+F 1 "1N4148" V 2555 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 3500 50  0001 C CNN
+	1    2600 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2600 3350 2600 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C50FE
+P 3600 3300
+F 0 "K?" H 3600 3533 60  0000 C CNN
+F 1 "KEYSW" H 3600 3200 60  0001 C CNN
+F 2 "" H 3600 3300 60  0000 C CNN
+F 3 "" H 3600 3300 60  0000 C CNN
+	1    3600 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5104
+P 3300 3500
+F 0 "D?" V 3346 3421 50  0000 R CNN
+F 1 "1N4148" V 3255 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3300 3500 50  0001 C CNN
+	1    3300 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 3350 3300 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C510B
+P 4300 3300
+F 0 "K?" H 4300 3533 60  0000 C CNN
+F 1 "KEYSW" H 4300 3200 60  0001 C CNN
+F 2 "" H 4300 3300 60  0000 C CNN
+F 3 "" H 4300 3300 60  0000 C CNN
+	1    4300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5111
+P 4000 3500
+F 0 "D?" V 4046 3421 50  0000 R CNN
+F 1 "1N4148" V 3955 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4000 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4000 3500 50  0001 C CNN
+	1    4000 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 3350 4000 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5118
+P 5000 3300
+F 0 "K?" H 5000 3533 60  0000 C CNN
+F 1 "KEYSW" H 5000 3200 60  0001 C CNN
+F 2 "" H 5000 3300 60  0000 C CNN
+F 3 "" H 5000 3300 60  0000 C CNN
+	1    5000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C511E
+P 4700 3500
+F 0 "D?" V 4746 3421 50  0000 R CNN
+F 1 "1N4148" V 4655 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4700 3500 50  0001 C CNN
+	1    4700 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 3350 4700 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5125
+P 5700 3300
+F 0 "K?" H 5700 3533 60  0000 C CNN
+F 1 "KEYSW" H 5700 3200 60  0001 C CNN
+F 2 "" H 5700 3300 60  0000 C CNN
+F 3 "" H 5700 3300 60  0000 C CNN
+	1    5700 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C512B
+P 5400 3500
+F 0 "D?" V 5446 3421 50  0000 R CNN
+F 1 "1N4148" V 5355 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 3500 50  0001 C CNN
+	1    5400 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 3350 5400 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5132
+P 6400 3300
+F 0 "K?" H 6400 3533 60  0000 C CNN
+F 1 "KEYSW" H 6400 3200 60  0001 C CNN
+F 2 "" H 6400 3300 60  0000 C CNN
+F 3 "" H 6400 3300 60  0000 C CNN
+	1    6400 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5138
+P 6100 3500
+F 0 "D?" V 6146 3421 50  0000 R CNN
+F 1 "1N4148" V 6055 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 3500 50  0001 C CNN
+	1    6100 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6100 3350 6100 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C513F
+P 7100 3300
+F 0 "K?" H 7100 3533 60  0000 C CNN
+F 1 "KEYSW" H 7100 3200 60  0001 C CNN
+F 2 "" H 7100 3300 60  0000 C CNN
+F 3 "" H 7100 3300 60  0000 C CNN
+	1    7100 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5145
+P 6800 3500
+F 0 "D?" V 6846 3421 50  0000 R CNN
+F 1 "1N4148" V 6755 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6800 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6800 3500 50  0001 C CNN
+	1    6800 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6800 3350 6800 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C514C
+P 7800 3300
+F 0 "K?" H 7800 3533 60  0000 C CNN
+F 1 "KEYSW" H 7800 3200 60  0001 C CNN
+F 2 "" H 7800 3300 60  0000 C CNN
+F 3 "" H 7800 3300 60  0000 C CNN
+	1    7800 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5152
+P 7500 3500
+F 0 "D?" V 7546 3421 50  0000 R CNN
+F 1 "1N4148" V 7455 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7500 3500 50  0001 C CNN
+	1    7500 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 3350 7500 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5159
+P 8500 3300
+F 0 "K?" H 8500 3533 60  0000 C CNN
+F 1 "KEYSW" H 8500 3200 60  0001 C CNN
+F 2 "" H 8500 3300 60  0000 C CNN
+F 3 "" H 8500 3300 60  0000 C CNN
+	1    8500 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C515F
+P 8200 3500
+F 0 "D?" V 8246 3421 50  0000 R CNN
+F 1 "1N4148" V 8155 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 3500 50  0001 C CNN
+	1    8200 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8200 3350 8200 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5166
+P 9200 3300
+F 0 "K?" H 9200 3533 60  0000 C CNN
+F 1 "KEYSW" H 9200 3200 60  0001 C CNN
+F 2 "" H 9200 3300 60  0000 C CNN
+F 3 "" H 9200 3300 60  0000 C CNN
+	1    9200 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C516C
+P 8900 3500
+F 0 "D?" V 8946 3421 50  0000 R CNN
+F 1 "1N4148" V 8855 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8900 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8900 3500 50  0001 C CNN
+	1    8900 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8900 3350 8900 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5173
+P 9900 3300
+F 0 "K?" H 9900 3533 60  0000 C CNN
+F 1 "KEYSW" H 9900 3200 60  0001 C CNN
+F 2 "" H 9900 3300 60  0000 C CNN
+F 3 "" H 9900 3300 60  0000 C CNN
+	1    9900 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5179
+P 9600 3500
+F 0 "D?" V 9646 3421 50  0000 R CNN
+F 1 "1N4148" V 9555 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9600 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 3500 50  0001 C CNN
+	1    9600 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9600 3350 9600 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5180
+P 10600 3300
+F 0 "K?" H 10600 3533 60  0000 C CNN
+F 1 "KEYSW" H 10600 3200 60  0001 C CNN
+F 2 "" H 10600 3300 60  0000 C CNN
+F 3 "" H 10600 3300 60  0000 C CNN
+	1    10600 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5186
+P 10300 3500
+F 0 "D?" V 10346 3421 50  0000 R CNN
+F 1 "1N4148" V 10255 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 3500 50  0001 C CNN
+	1    10300 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10300 3350 10300 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C518D
+P 11300 3300
+F 0 "K?" H 11300 3533 60  0000 C CNN
+F 1 "KEYSW" H 11300 3200 60  0001 C CNN
+F 2 "" H 11300 3300 60  0000 C CNN
+F 3 "" H 11300 3300 60  0000 C CNN
+	1    11300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5193
+P 11000 3500
+F 0 "D?" V 11046 3421 50  0000 R CNN
+F 1 "1N4148" V 10955 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11000 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11000 3500 50  0001 C CNN
+	1    11000 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11000 3350 11000 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C519A
+P 12000 3300
+F 0 "K?" H 12000 3533 60  0000 C CNN
+F 1 "KEYSW" H 12000 3200 60  0001 C CNN
+F 2 "" H 12000 3300 60  0000 C CNN
+F 3 "" H 12000 3300 60  0000 C CNN
+	1    12000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51A0
+P 11700 3500
+F 0 "D?" V 11746 3421 50  0000 R CNN
+F 1 "1N4148" V 11655 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11700 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11700 3500 50  0001 C CNN
+	1    11700 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11700 3350 11700 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C51A7
+P 12700 3300
+F 0 "K?" H 12700 3533 60  0000 C CNN
+F 1 "KEYSW" H 12700 3200 60  0001 C CNN
+F 2 "" H 12700 3300 60  0000 C CNN
+F 3 "" H 12700 3300 60  0000 C CNN
+	1    12700 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51AD
+P 12400 3500
+F 0 "D?" V 12446 3421 50  0000 R CNN
+F 1 "1N4148" V 12355 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 12400 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12400 3500 50  0001 C CNN
+	1    12400 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12400 3350 12400 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C51B4
+P 13400 3300
+F 0 "K?" H 13400 3533 60  0000 C CNN
+F 1 "KEYSW" H 13400 3200 60  0001 C CNN
+F 2 "" H 13400 3300 60  0000 C CNN
+F 3 "" H 13400 3300 60  0000 C CNN
+	1    13400 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51BA
+P 13100 3500
+F 0 "D?" V 13146 3421 50  0000 R CNN
+F 1 "1N4148" V 13055 3421 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 13100 3325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 13100 3500 50  0001 C CNN
+	1    13100 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13100 3350 13100 3300
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C51C1
+P 1500 4000
+F 0 "K?" H 1500 4233 60  0000 C CNN
+F 1 "KEYSW" H 1500 3900 60  0001 C CNN
+F 2 "" H 1500 4000 60  0000 C CNN
+F 3 "" H 1500 4000 60  0000 C CNN
+	1    1500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51C7
+P 1200 4200
+F 0 "D?" V 1246 4121 50  0000 R CNN
+F 1 "1N4148" V 1155 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 4200 50  0001 C CNN
+	1    1200 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1200 4050 1200 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C51CE
+P 2200 4000
+F 0 "K?" H 2200 4233 60  0000 C CNN
+F 1 "KEYSW" H 2200 3900 60  0001 C CNN
+F 2 "" H 2200 4000 60  0000 C CNN
+F 3 "" H 2200 4000 60  0000 C CNN
+	1    2200 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51D4
+P 1900 4200
+F 0 "D?" V 1946 4121 50  0000 R CNN
+F 1 "1N4148" V 1855 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 4200 50  0001 C CNN
+	1    1900 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 4050 1900 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C51DB
+P 2900 4000
+F 0 "K?" H 2900 4233 60  0000 C CNN
+F 1 "KEYSW" H 2900 3900 60  0001 C CNN
+F 2 "" H 2900 4000 60  0000 C CNN
+F 3 "" H 2900 4000 60  0000 C CNN
+	1    2900 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51E1
+P 2600 4200
+F 0 "D?" V 2646 4121 50  0000 R CNN
+F 1 "1N4148" V 2555 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 4200 50  0001 C CNN
+	1    2600 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2600 4050 2600 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C51E8
+P 3600 4000
+F 0 "K?" H 3600 4233 60  0000 C CNN
+F 1 "KEYSW" H 3600 3900 60  0001 C CNN
+F 2 "" H 3600 4000 60  0000 C CNN
+F 3 "" H 3600 4000 60  0000 C CNN
+	1    3600 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51EE
+P 3300 4200
+F 0 "D?" V 3346 4121 50  0000 R CNN
+F 1 "1N4148" V 3255 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3300 4200 50  0001 C CNN
+	1    3300 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 4050 3300 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C51F5
+P 4300 4000
+F 0 "K?" H 4300 4233 60  0000 C CNN
+F 1 "KEYSW" H 4300 3900 60  0001 C CNN
+F 2 "" H 4300 4000 60  0000 C CNN
+F 3 "" H 4300 4000 60  0000 C CNN
+	1    4300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C51FB
+P 4000 4200
+F 0 "D?" V 4046 4121 50  0000 R CNN
+F 1 "1N4148" V 3955 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4000 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4000 4200 50  0001 C CNN
+	1    4000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 4050 4000 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5202
+P 5000 4000
+F 0 "K?" H 5000 4233 60  0000 C CNN
+F 1 "KEYSW" H 5000 3900 60  0001 C CNN
+F 2 "" H 5000 4000 60  0000 C CNN
+F 3 "" H 5000 4000 60  0000 C CNN
+	1    5000 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5208
+P 4700 4200
+F 0 "D?" V 4746 4121 50  0000 R CNN
+F 1 "1N4148" V 4655 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4700 4200 50  0001 C CNN
+	1    4700 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 4050 4700 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C520F
+P 5700 4000
+F 0 "K?" H 5700 4233 60  0000 C CNN
+F 1 "KEYSW" H 5700 3900 60  0001 C CNN
+F 2 "" H 5700 4000 60  0000 C CNN
+F 3 "" H 5700 4000 60  0000 C CNN
+	1    5700 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5215
+P 5400 4200
+F 0 "D?" V 5446 4121 50  0000 R CNN
+F 1 "1N4148" V 5355 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 4200 50  0001 C CNN
+	1    5400 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 4050 5400 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C521C
+P 6400 4000
+F 0 "K?" H 6400 4233 60  0000 C CNN
+F 1 "KEYSW" H 6400 3900 60  0001 C CNN
+F 2 "" H 6400 4000 60  0000 C CNN
+F 3 "" H 6400 4000 60  0000 C CNN
+	1    6400 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5222
+P 6100 4200
+F 0 "D?" V 6146 4121 50  0000 R CNN
+F 1 "1N4148" V 6055 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 4200 50  0001 C CNN
+	1    6100 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6100 4050 6100 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5229
+P 7100 4000
+F 0 "K?" H 7100 4233 60  0000 C CNN
+F 1 "KEYSW" H 7100 3900 60  0001 C CNN
+F 2 "" H 7100 4000 60  0000 C CNN
+F 3 "" H 7100 4000 60  0000 C CNN
+	1    7100 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C522F
+P 6800 4200
+F 0 "D?" V 6846 4121 50  0000 R CNN
+F 1 "1N4148" V 6755 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6800 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6800 4200 50  0001 C CNN
+	1    6800 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6800 4050 6800 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5236
+P 7800 4000
+F 0 "K?" H 7800 4233 60  0000 C CNN
+F 1 "KEYSW" H 7800 3900 60  0001 C CNN
+F 2 "" H 7800 4000 60  0000 C CNN
+F 3 "" H 7800 4000 60  0000 C CNN
+	1    7800 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C523C
+P 7500 4200
+F 0 "D?" V 7546 4121 50  0000 R CNN
+F 1 "1N4148" V 7455 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7500 4200 50  0001 C CNN
+	1    7500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 4050 7500 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5243
+P 8500 4000
+F 0 "K?" H 8500 4233 60  0000 C CNN
+F 1 "KEYSW" H 8500 3900 60  0001 C CNN
+F 2 "" H 8500 4000 60  0000 C CNN
+F 3 "" H 8500 4000 60  0000 C CNN
+	1    8500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5249
+P 8200 4200
+F 0 "D?" V 8246 4121 50  0000 R CNN
+F 1 "1N4148" V 8155 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 4200 50  0001 C CNN
+	1    8200 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8200 4050 8200 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5250
+P 9200 4000
+F 0 "K?" H 9200 4233 60  0000 C CNN
+F 1 "KEYSW" H 9200 3900 60  0001 C CNN
+F 2 "" H 9200 4000 60  0000 C CNN
+F 3 "" H 9200 4000 60  0000 C CNN
+	1    9200 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5256
+P 8900 4200
+F 0 "D?" V 8946 4121 50  0000 R CNN
+F 1 "1N4148" V 8855 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8900 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8900 4200 50  0001 C CNN
+	1    8900 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8900 4050 8900 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C525D
+P 9900 4000
+F 0 "K?" H 9900 4233 60  0000 C CNN
+F 1 "KEYSW" H 9900 3900 60  0001 C CNN
+F 2 "" H 9900 4000 60  0000 C CNN
+F 3 "" H 9900 4000 60  0000 C CNN
+	1    9900 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5263
+P 9600 4200
+F 0 "D?" V 9646 4121 50  0000 R CNN
+F 1 "1N4148" V 9555 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9600 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 4200 50  0001 C CNN
+	1    9600 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9600 4050 9600 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C526A
+P 10600 4000
+F 0 "K?" H 10600 4233 60  0000 C CNN
+F 1 "KEYSW" H 10600 3900 60  0001 C CNN
+F 2 "" H 10600 4000 60  0000 C CNN
+F 3 "" H 10600 4000 60  0000 C CNN
+	1    10600 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5270
+P 10300 4200
+F 0 "D?" V 10346 4121 50  0000 R CNN
+F 1 "1N4148" V 10255 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 4200 50  0001 C CNN
+	1    10300 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10300 4050 10300 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5277
+P 11300 4000
+F 0 "K?" H 11300 4233 60  0000 C CNN
+F 1 "KEYSW" H 11300 3900 60  0001 C CNN
+F 2 "" H 11300 4000 60  0000 C CNN
+F 3 "" H 11300 4000 60  0000 C CNN
+	1    11300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C527D
+P 11000 4200
+F 0 "D?" V 11046 4121 50  0000 R CNN
+F 1 "1N4148" V 10955 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11000 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11000 4200 50  0001 C CNN
+	1    11000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11000 4050 11000 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5284
+P 12000 4000
+F 0 "K?" H 12000 4233 60  0000 C CNN
+F 1 "KEYSW" H 12000 3900 60  0001 C CNN
+F 2 "" H 12000 4000 60  0000 C CNN
+F 3 "" H 12000 4000 60  0000 C CNN
+	1    12000 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C528A
+P 11700 4200
+F 0 "D?" V 11746 4121 50  0000 R CNN
+F 1 "1N4148" V 11655 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11700 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11700 4200 50  0001 C CNN
+	1    11700 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11700 4050 11700 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5291
+P 12700 4000
+F 0 "K?" H 12700 4233 60  0000 C CNN
+F 1 "KEYSW" H 12700 3900 60  0001 C CNN
+F 2 "" H 12700 4000 60  0000 C CNN
+F 3 "" H 12700 4000 60  0000 C CNN
+	1    12700 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C5297
+P 12400 4200
+F 0 "D?" V 12446 4121 50  0000 R CNN
+F 1 "1N4148" V 12355 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 12400 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12400 4200 50  0001 C CNN
+	1    12400 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12400 4050 12400 4000
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C529E
+P 13400 4000
+F 0 "K?" H 13400 4233 60  0000 C CNN
+F 1 "KEYSW" H 13400 3900 60  0001 C CNN
+F 2 "" H 13400 4000 60  0000 C CNN
+F 3 "" H 13400 4000 60  0000 C CNN
+	1    13400 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 603C52A4
+P 13100 4200
+F 0 "D?" V 13146 4121 50  0000 R CNN
+F 1 "1N4148" V 13055 4121 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 13100 4025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 13100 4200 50  0001 C CNN
+	1    13100 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13100 4050 13100 4000
+Wire Wire Line
+	1200 3650 1900 3650
+Connection ~ 1900 3650
+Wire Wire Line
+	1900 3650 2600 3650
+Connection ~ 2600 3650
+Wire Wire Line
+	2600 3650 3300 3650
+Connection ~ 3300 3650
+Wire Wire Line
+	3300 3650 4000 3650
+Connection ~ 4000 3650
+Wire Wire Line
+	4000 3650 4700 3650
+Connection ~ 4700 3650
+Wire Wire Line
+	4700 3650 5400 3650
+Connection ~ 5400 3650
+Wire Wire Line
+	5400 3650 6100 3650
+Connection ~ 6100 3650
+Wire Wire Line
+	6100 3650 6800 3650
+Connection ~ 6800 3650
+Wire Wire Line
+	6800 3650 7500 3650
+Connection ~ 7500 3650
+Wire Wire Line
+	7500 3650 8200 3650
+Connection ~ 8200 3650
+Wire Wire Line
+	8200 3650 8900 3650
+Connection ~ 8900 3650
+Wire Wire Line
+	8900 3650 9600 3650
+Connection ~ 9600 3650
+Wire Wire Line
+	9600 3650 10300 3650
+Connection ~ 10300 3650
+Wire Wire Line
+	10300 3650 11000 3650
+Connection ~ 11000 3650
+Wire Wire Line
+	11000 3650 11700 3650
+Connection ~ 11700 3650
+Wire Wire Line
+	11700 3650 12400 3650
+Connection ~ 12400 3650
+Wire Wire Line
+	12400 3650 13100 3650
+Wire Wire Line
+	13100 4350 12400 4350
+Connection ~ 1900 4350
+Wire Wire Line
+	1900 4350 1200 4350
+Connection ~ 2600 4350
+Wire Wire Line
+	2600 4350 1900 4350
+Connection ~ 3300 4350
+Wire Wire Line
+	3300 4350 2600 4350
+Connection ~ 4000 4350
+Wire Wire Line
+	4000 4350 3300 4350
+Connection ~ 4700 4350
+Wire Wire Line
+	4700 4350 4000 4350
+Connection ~ 5400 4350
+Wire Wire Line
+	5400 4350 4700 4350
+Connection ~ 6100 4350
+Wire Wire Line
+	6100 4350 5400 4350
+Connection ~ 6800 4350
+Wire Wire Line
+	6800 4350 6100 4350
+Connection ~ 7500 4350
+Wire Wire Line
+	7500 4350 6800 4350
+Connection ~ 8200 4350
+Wire Wire Line
+	8200 4350 7500 4350
+Connection ~ 8900 4350
+Wire Wire Line
+	8900 4350 8200 4350
+Connection ~ 9600 4350
+Wire Wire Line
+	9600 4350 8900 4350
+Connection ~ 10300 4350
+Wire Wire Line
+	10300 4350 9600 4350
+Connection ~ 11000 4350
+Wire Wire Line
+	11000 4350 10300 4350
+Connection ~ 11700 4350
+Wire Wire Line
+	11700 4350 11000 4350
+Connection ~ 12400 4350
+Wire Wire Line
+	12400 4350 11700 4350
+Wire Wire Line
+	1800 4000 1800 3300
+Wire Wire Line
+	1800 4700 1800 4000
+Wire Wire Line
+	5300 4000 5300 3300
+Wire Wire Line
+	5300 4700 5300 4000
+Wire Wire Line
+	5300 4000 5350 4000
+Connection ~ 5300 4000
+Wire Wire Line
+	6000 4000 6000 3300
+Wire Wire Line
+	6000 4700 6000 4000
+Wire Wire Line
+	6000 4000 6050 4000
+Connection ~ 6000 4000
+Connection ~ 1800 4000
+Connection ~ 2500 4000
+Wire Wire Line
+	2500 4700 2500 4000
+Wire Wire Line
+	3900 3300 3900 4000
+Connection ~ 3900 4000
+Wire Wire Line
+	3900 4000 3900 4700
+Wire Wire Line
+	3200 3300 3200 4000
+Connection ~ 3200 4000
+Wire Wire Line
+	3200 4000 3200 4700
+Wire Wire Line
+	4600 3300 4600 4000
+Connection ~ 4600 4000
+Wire Wire Line
+	4600 4000 4600 4700
+Wire Wire Line
+	6700 3300 6700 4000
+Connection ~ 6700 4000
+Wire Wire Line
+	6700 4000 6700 4700
+Wire Wire Line
+	7400 3300 7400 4000
+Connection ~ 7400 4000
+Wire Wire Line
+	7400 4000 7400 4700
+Wire Wire Line
+	8100 3300 8100 4000
+Connection ~ 8100 4000
+Wire Wire Line
+	8100 4000 8100 4700
+Wire Wire Line
+	8800 3300 8800 4000
+Connection ~ 8800 4000
+Wire Wire Line
+	8800 4000 8800 4700
+Wire Wire Line
+	9500 3300 9500 4000
+Connection ~ 9500 4000
+Wire Wire Line
+	9500 4000 9500 4700
+Wire Wire Line
+	10200 3300 10200 4000
+Connection ~ 10200 4000
+Wire Wire Line
+	10200 4000 10200 4700
+Wire Wire Line
+	10900 3300 10900 4000
+Connection ~ 10900 4000
+Wire Wire Line
+	10900 4000 10900 4700
+Wire Wire Line
+	11600 3300 11600 4000
+Connection ~ 11600 4000
+Wire Wire Line
+	11600 4000 11600 4700
+Wire Wire Line
+	12300 3300 12300 4000
+Connection ~ 12300 4000
+Wire Wire Line
+	12300 4000 12300 4700
+Wire Wire Line
+	13000 3300 13000 4000
+Connection ~ 13000 4000
+Wire Wire Line
+	13000 4000 13000 4700
+Wire Wire Line
+	13700 3300 13700 4000
+Connection ~ 13700 4000
+Wire Wire Line
+	13700 4000 13700 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 603C5324
+P 1500 3300
+F 0 "K?" H 1500 3533 60  0000 C CNN
+F 1 "KEYSW" H 1500 3200 60  0001 C CNN
+F 2 "" H 1500 3300 60  0000 C CNN
+F 3 "" H 1500 3300 60  0000 C CNN
+	1    1500 3300
+	1    0    0    -1  
+$EndComp
+Connection ~ 1800 3300
+Wire Wire Line
+	2500 3300 2500 4000
+Connection ~ 2500 3300
+Connection ~ 3200 3300
+Connection ~ 3900 3300
+Connection ~ 4600 3300
+Connection ~ 5300 3300
+Connection ~ 6000 3300
+Connection ~ 6700 3300
+Connection ~ 7400 3300
+Connection ~ 8100 3300
+Connection ~ 8800 3300
+Connection ~ 9500 3300
+Connection ~ 10200 3300
+Connection ~ 13700 3300
+Connection ~ 13000 3300
+Connection ~ 12300 3300
+Connection ~ 11600 3300
+Connection ~ 10900 3300
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B554
+P 1200 4900
+F 0 "D?" V 1246 4821 50  0000 R CNN
+F 1 "1N4148" V 1155 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 4900 50  0001 C CNN
+	1    1200 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1200 4750 1200 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B55B
+P 2200 4700
+F 0 "K?" H 2200 4933 60  0000 C CNN
+F 1 "KEYSW" H 2200 4600 60  0001 C CNN
+F 2 "" H 2200 4700 60  0000 C CNN
+F 3 "" H 2200 4700 60  0000 C CNN
+	1    2200 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B561
+P 1900 4900
+F 0 "D?" V 1946 4821 50  0000 R CNN
+F 1 "1N4148" V 1855 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 4900 50  0001 C CNN
+	1    1900 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 4750 1900 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B568
+P 2900 4700
+F 0 "K?" H 2900 4933 60  0000 C CNN
+F 1 "KEYSW" H 2900 4600 60  0001 C CNN
+F 2 "" H 2900 4700 60  0000 C CNN
+F 3 "" H 2900 4700 60  0000 C CNN
+	1    2900 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B56E
+P 2600 4900
+F 0 "D?" V 2646 4821 50  0000 R CNN
+F 1 "1N4148" V 2555 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 4900 50  0001 C CNN
+	1    2600 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2600 4750 2600 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B575
+P 3600 4700
+F 0 "K?" H 3600 4933 60  0000 C CNN
+F 1 "KEYSW" H 3600 4600 60  0001 C CNN
+F 2 "" H 3600 4700 60  0000 C CNN
+F 3 "" H 3600 4700 60  0000 C CNN
+	1    3600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B57B
+P 3300 4900
+F 0 "D?" V 3346 4821 50  0000 R CNN
+F 1 "1N4148" V 3255 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3300 4900 50  0001 C CNN
+	1    3300 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 4750 3300 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B582
+P 4300 4700
+F 0 "K?" H 4300 4933 60  0000 C CNN
+F 1 "KEYSW" H 4300 4600 60  0001 C CNN
+F 2 "" H 4300 4700 60  0000 C CNN
+F 3 "" H 4300 4700 60  0000 C CNN
+	1    4300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B588
+P 4000 4900
+F 0 "D?" V 4046 4821 50  0000 R CNN
+F 1 "1N4148" V 3955 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4000 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4000 4900 50  0001 C CNN
+	1    4000 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 4750 4000 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B58F
+P 5000 4700
+F 0 "K?" H 5000 4933 60  0000 C CNN
+F 1 "KEYSW" H 5000 4600 60  0001 C CNN
+F 2 "" H 5000 4700 60  0000 C CNN
+F 3 "" H 5000 4700 60  0000 C CNN
+	1    5000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B595
+P 4700 4900
+F 0 "D?" V 4746 4821 50  0000 R CNN
+F 1 "1N4148" V 4655 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4700 4900 50  0001 C CNN
+	1    4700 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 4750 4700 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B59C
+P 5700 4700
+F 0 "K?" H 5700 4933 60  0000 C CNN
+F 1 "KEYSW" H 5700 4600 60  0001 C CNN
+F 2 "" H 5700 4700 60  0000 C CNN
+F 3 "" H 5700 4700 60  0000 C CNN
+	1    5700 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5A2
+P 5400 4900
+F 0 "D?" V 5446 4821 50  0000 R CNN
+F 1 "1N4148" V 5355 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 4900 50  0001 C CNN
+	1    5400 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 4750 5400 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B5A9
+P 6400 4700
+F 0 "K?" H 6400 4933 60  0000 C CNN
+F 1 "KEYSW" H 6400 4600 60  0001 C CNN
+F 2 "" H 6400 4700 60  0000 C CNN
+F 3 "" H 6400 4700 60  0000 C CNN
+	1    6400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5AF
+P 6100 4900
+F 0 "D?" V 6146 4821 50  0000 R CNN
+F 1 "1N4148" V 6055 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 4900 50  0001 C CNN
+	1    6100 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6100 4750 6100 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B5B6
+P 7100 4700
+F 0 "K?" H 7100 4933 60  0000 C CNN
+F 1 "KEYSW" H 7100 4600 60  0001 C CNN
+F 2 "" H 7100 4700 60  0000 C CNN
+F 3 "" H 7100 4700 60  0000 C CNN
+	1    7100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5BC
+P 6800 4900
+F 0 "D?" V 6846 4821 50  0000 R CNN
+F 1 "1N4148" V 6755 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6800 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6800 4900 50  0001 C CNN
+	1    6800 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6800 4750 6800 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B5C3
+P 7800 4700
+F 0 "K?" H 7800 4933 60  0000 C CNN
+F 1 "KEYSW" H 7800 4600 60  0001 C CNN
+F 2 "" H 7800 4700 60  0000 C CNN
+F 3 "" H 7800 4700 60  0000 C CNN
+	1    7800 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5C9
+P 7500 4900
+F 0 "D?" V 7546 4821 50  0000 R CNN
+F 1 "1N4148" V 7455 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7500 4900 50  0001 C CNN
+	1    7500 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 4750 7500 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B5D0
+P 8500 4700
+F 0 "K?" H 8500 4933 60  0000 C CNN
+F 1 "KEYSW" H 8500 4600 60  0001 C CNN
+F 2 "" H 8500 4700 60  0000 C CNN
+F 3 "" H 8500 4700 60  0000 C CNN
+	1    8500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5D6
+P 8200 4900
+F 0 "D?" V 8246 4821 50  0000 R CNN
+F 1 "1N4148" V 8155 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 4900 50  0001 C CNN
+	1    8200 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8200 4750 8200 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B5DD
+P 9200 4700
+F 0 "K?" H 9200 4933 60  0000 C CNN
+F 1 "KEYSW" H 9200 4600 60  0001 C CNN
+F 2 "" H 9200 4700 60  0000 C CNN
+F 3 "" H 9200 4700 60  0000 C CNN
+	1    9200 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5E3
+P 8900 4900
+F 0 "D?" V 8946 4821 50  0000 R CNN
+F 1 "1N4148" V 8855 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8900 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8900 4900 50  0001 C CNN
+	1    8900 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8900 4750 8900 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B5EA
+P 9900 4700
+F 0 "K?" H 9900 4933 60  0000 C CNN
+F 1 "KEYSW" H 9900 4600 60  0001 C CNN
+F 2 "" H 9900 4700 60  0000 C CNN
+F 3 "" H 9900 4700 60  0000 C CNN
+	1    9900 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5F0
+P 9600 4900
+F 0 "D?" V 9646 4821 50  0000 R CNN
+F 1 "1N4148" V 9555 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9600 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 4900 50  0001 C CNN
+	1    9600 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9600 4750 9600 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B5F7
+P 10600 4700
+F 0 "K?" H 10600 4933 60  0000 C CNN
+F 1 "KEYSW" H 10600 4600 60  0001 C CNN
+F 2 "" H 10600 4700 60  0000 C CNN
+F 3 "" H 10600 4700 60  0000 C CNN
+	1    10600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B5FD
+P 10300 4900
+F 0 "D?" V 10346 4821 50  0000 R CNN
+F 1 "1N4148" V 10255 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 4900 50  0001 C CNN
+	1    10300 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10300 4750 10300 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B604
+P 11300 4700
+F 0 "K?" H 11300 4933 60  0000 C CNN
+F 1 "KEYSW" H 11300 4600 60  0001 C CNN
+F 2 "" H 11300 4700 60  0000 C CNN
+F 3 "" H 11300 4700 60  0000 C CNN
+	1    11300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B60A
+P 11000 4900
+F 0 "D?" V 11046 4821 50  0000 R CNN
+F 1 "1N4148" V 10955 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11000 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11000 4900 50  0001 C CNN
+	1    11000 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11000 4750 11000 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B611
+P 12000 4700
+F 0 "K?" H 12000 4933 60  0000 C CNN
+F 1 "KEYSW" H 12000 4600 60  0001 C CNN
+F 2 "" H 12000 4700 60  0000 C CNN
+F 3 "" H 12000 4700 60  0000 C CNN
+	1    12000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B617
+P 11700 4900
+F 0 "D?" V 11746 4821 50  0000 R CNN
+F 1 "1N4148" V 11655 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11700 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11700 4900 50  0001 C CNN
+	1    11700 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11700 4750 11700 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B61E
+P 12700 4700
+F 0 "K?" H 12700 4933 60  0000 C CNN
+F 1 "KEYSW" H 12700 4600 60  0001 C CNN
+F 2 "" H 12700 4700 60  0000 C CNN
+F 3 "" H 12700 4700 60  0000 C CNN
+	1    12700 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B624
+P 12400 4900
+F 0 "D?" V 12446 4821 50  0000 R CNN
+F 1 "1N4148" V 12355 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 12400 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12400 4900 50  0001 C CNN
+	1    12400 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12400 4750 12400 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B62B
+P 13400 4700
+F 0 "K?" H 13400 4933 60  0000 C CNN
+F 1 "KEYSW" H 13400 4600 60  0001 C CNN
+F 2 "" H 13400 4700 60  0000 C CNN
+F 3 "" H 13400 4700 60  0000 C CNN
+	1    13400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B631
+P 13100 4900
+F 0 "D?" V 13146 4821 50  0000 R CNN
+F 1 "1N4148" V 13055 4821 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 13100 4725 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 13100 4900 50  0001 C CNN
+	1    13100 4900
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13100 4750 13100 4700
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B638
+P 1500 5400
+F 0 "K?" H 1500 5633 60  0000 C CNN
+F 1 "KEYSW" H 1500 5300 60  0001 C CNN
+F 2 "" H 1500 5400 60  0000 C CNN
+F 3 "" H 1500 5400 60  0000 C CNN
+	1    1500 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B63E
+P 1200 5600
+F 0 "D?" V 1246 5521 50  0000 R CNN
+F 1 "1N4148" V 1155 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1200 5600 50  0001 C CNN
+	1    1200 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1200 5450 1200 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B645
+P 2200 5400
+F 0 "K?" H 2200 5633 60  0000 C CNN
+F 1 "KEYSW" H 2200 5300 60  0001 C CNN
+F 2 "" H 2200 5400 60  0000 C CNN
+F 3 "" H 2200 5400 60  0000 C CNN
+	1    2200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B64B
+P 1900 5600
+F 0 "D?" V 1946 5521 50  0000 R CNN
+F 1 "1N4148" V 1855 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1900 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 5600 50  0001 C CNN
+	1    1900 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 5450 1900 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B652
+P 2900 5400
+F 0 "K?" H 2900 5633 60  0000 C CNN
+F 1 "KEYSW" H 2900 5300 60  0001 C CNN
+F 2 "" H 2900 5400 60  0000 C CNN
+F 3 "" H 2900 5400 60  0000 C CNN
+	1    2900 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B658
+P 2600 5600
+F 0 "D?" V 2646 5521 50  0000 R CNN
+F 1 "1N4148" V 2555 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2600 5600 50  0001 C CNN
+	1    2600 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2600 5450 2600 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B65F
+P 3600 5400
+F 0 "K?" H 3600 5633 60  0000 C CNN
+F 1 "KEYSW" H 3600 5300 60  0001 C CNN
+F 2 "" H 3600 5400 60  0000 C CNN
+F 3 "" H 3600 5400 60  0000 C CNN
+	1    3600 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B665
+P 3300 5600
+F 0 "D?" V 3346 5521 50  0000 R CNN
+F 1 "1N4148" V 3255 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3300 5600 50  0001 C CNN
+	1    3300 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3300 5450 3300 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B66C
+P 4300 5400
+F 0 "K?" H 4300 5633 60  0000 C CNN
+F 1 "KEYSW" H 4300 5300 60  0001 C CNN
+F 2 "" H 4300 5400 60  0000 C CNN
+F 3 "" H 4300 5400 60  0000 C CNN
+	1    4300 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B672
+P 4000 5600
+F 0 "D?" V 4046 5521 50  0000 R CNN
+F 1 "1N4148" V 3955 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4000 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4000 5600 50  0001 C CNN
+	1    4000 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 5450 4000 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B679
+P 5000 5400
+F 0 "K?" H 5000 5633 60  0000 C CNN
+F 1 "KEYSW" H 5000 5300 60  0001 C CNN
+F 2 "" H 5000 5400 60  0000 C CNN
+F 3 "" H 5000 5400 60  0000 C CNN
+	1    5000 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B67F
+P 4700 5600
+F 0 "D?" V 4746 5521 50  0000 R CNN
+F 1 "1N4148" V 4655 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4700 5600 50  0001 C CNN
+	1    4700 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4700 5450 4700 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B686
+P 5700 5400
+F 0 "K?" H 5700 5633 60  0000 C CNN
+F 1 "KEYSW" H 5700 5300 60  0001 C CNN
+F 2 "" H 5700 5400 60  0000 C CNN
+F 3 "" H 5700 5400 60  0000 C CNN
+	1    5700 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B68C
+P 5400 5600
+F 0 "D?" V 5446 5521 50  0000 R CNN
+F 1 "1N4148" V 5355 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 5600 50  0001 C CNN
+	1    5400 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 5450 5400 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B693
+P 6400 5400
+F 0 "K?" H 6400 5633 60  0000 C CNN
+F 1 "KEYSW" H 6400 5300 60  0001 C CNN
+F 2 "" H 6400 5400 60  0000 C CNN
+F 3 "" H 6400 5400 60  0000 C CNN
+	1    6400 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B699
+P 6100 5600
+F 0 "D?" V 6146 5521 50  0000 R CNN
+F 1 "1N4148" V 6055 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 5600 50  0001 C CNN
+	1    6100 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6100 5450 6100 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6A0
+P 7100 5400
+F 0 "K?" H 7100 5633 60  0000 C CNN
+F 1 "KEYSW" H 7100 5300 60  0001 C CNN
+F 2 "" H 7100 5400 60  0000 C CNN
+F 3 "" H 7100 5400 60  0000 C CNN
+	1    7100 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B6A6
+P 6800 5600
+F 0 "D?" V 6846 5521 50  0000 R CNN
+F 1 "1N4148" V 6755 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6800 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6800 5600 50  0001 C CNN
+	1    6800 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6800 5450 6800 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6AD
+P 7800 5400
+F 0 "K?" H 7800 5633 60  0000 C CNN
+F 1 "KEYSW" H 7800 5300 60  0001 C CNN
+F 2 "" H 7800 5400 60  0000 C CNN
+F 3 "" H 7800 5400 60  0000 C CNN
+	1    7800 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B6B3
+P 7500 5600
+F 0 "D?" V 7546 5521 50  0000 R CNN
+F 1 "1N4148" V 7455 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7500 5600 50  0001 C CNN
+	1    7500 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 5450 7500 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6BA
+P 8500 5400
+F 0 "K?" H 8500 5633 60  0000 C CNN
+F 1 "KEYSW" H 8500 5300 60  0001 C CNN
+F 2 "" H 8500 5400 60  0000 C CNN
+F 3 "" H 8500 5400 60  0000 C CNN
+	1    8500 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B6C0
+P 8200 5600
+F 0 "D?" V 8246 5521 50  0000 R CNN
+F 1 "1N4148" V 8155 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8200 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8200 5600 50  0001 C CNN
+	1    8200 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8200 5450 8200 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6C7
+P 9200 5400
+F 0 "K?" H 9200 5633 60  0000 C CNN
+F 1 "KEYSW" H 9200 5300 60  0001 C CNN
+F 2 "" H 9200 5400 60  0000 C CNN
+F 3 "" H 9200 5400 60  0000 C CNN
+	1    9200 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B6CD
+P 8900 5600
+F 0 "D?" V 8946 5521 50  0000 R CNN
+F 1 "1N4148" V 8855 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8900 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8900 5600 50  0001 C CNN
+	1    8900 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8900 5450 8900 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6D4
+P 9900 5400
+F 0 "K?" H 9900 5633 60  0000 C CNN
+F 1 "KEYSW" H 9900 5300 60  0001 C CNN
+F 2 "" H 9900 5400 60  0000 C CNN
+F 3 "" H 9900 5400 60  0000 C CNN
+	1    9900 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B6DA
+P 9600 5600
+F 0 "D?" V 9646 5521 50  0000 R CNN
+F 1 "1N4148" V 9555 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9600 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 5600 50  0001 C CNN
+	1    9600 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9600 5450 9600 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6E1
+P 10600 5400
+F 0 "K?" H 10600 5633 60  0000 C CNN
+F 1 "KEYSW" H 10600 5300 60  0001 C CNN
+F 2 "" H 10600 5400 60  0000 C CNN
+F 3 "" H 10600 5400 60  0000 C CNN
+	1    10600 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B6E7
+P 10300 5600
+F 0 "D?" V 10346 5521 50  0000 R CNN
+F 1 "1N4148" V 10255 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 5600 50  0001 C CNN
+	1    10300 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10300 5450 10300 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6EE
+P 11300 5400
+F 0 "K?" H 11300 5633 60  0000 C CNN
+F 1 "KEYSW" H 11300 5300 60  0001 C CNN
+F 2 "" H 11300 5400 60  0000 C CNN
+F 3 "" H 11300 5400 60  0000 C CNN
+	1    11300 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B6F4
+P 11000 5600
+F 0 "D?" V 11046 5521 50  0000 R CNN
+F 1 "1N4148" V 10955 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11000 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11000 5600 50  0001 C CNN
+	1    11000 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11000 5450 11000 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B6FB
+P 12000 5400
+F 0 "K?" H 12000 5633 60  0000 C CNN
+F 1 "KEYSW" H 12000 5300 60  0001 C CNN
+F 2 "" H 12000 5400 60  0000 C CNN
+F 3 "" H 12000 5400 60  0000 C CNN
+	1    12000 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B701
+P 11700 5600
+F 0 "D?" V 11746 5521 50  0000 R CNN
+F 1 "1N4148" V 11655 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 11700 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11700 5600 50  0001 C CNN
+	1    11700 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11700 5450 11700 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B708
+P 12700 5400
+F 0 "K?" H 12700 5633 60  0000 C CNN
+F 1 "KEYSW" H 12700 5300 60  0001 C CNN
+F 2 "" H 12700 5400 60  0000 C CNN
+F 3 "" H 12700 5400 60  0000 C CNN
+	1    12700 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B70E
+P 12400 5600
+F 0 "D?" V 12446 5521 50  0000 R CNN
+F 1 "1N4148" V 12355 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 12400 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12400 5600 50  0001 C CNN
+	1    12400 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12400 5450 12400 5400
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B715
+P 13400 5400
+F 0 "K?" H 13400 5633 60  0000 C CNN
+F 1 "KEYSW" H 13400 5300 60  0001 C CNN
+F 2 "" H 13400 5400 60  0000 C CNN
+F 3 "" H 13400 5400 60  0000 C CNN
+	1    13400 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148 D?
+U 1 1 6040B71B
+P 13100 5600
+F 0 "D?" V 13146 5521 50  0000 R CNN
+F 1 "1N4148" V 13055 5521 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 13100 5425 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 13100 5600 50  0001 C CNN
+	1    13100 5600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13100 5450 13100 5400
+Wire Wire Line
+	1200 5050 1900 5050
+Connection ~ 1900 5050
+Wire Wire Line
+	1900 5050 2600 5050
+Connection ~ 2600 5050
+Wire Wire Line
+	2600 5050 3300 5050
+Connection ~ 3300 5050
+Wire Wire Line
+	3300 5050 4000 5050
+Connection ~ 4000 5050
+Wire Wire Line
+	4000 5050 4700 5050
+Connection ~ 4700 5050
+Wire Wire Line
+	4700 5050 5400 5050
+Connection ~ 5400 5050
+Wire Wire Line
+	5400 5050 6100 5050
+Connection ~ 6100 5050
+Wire Wire Line
+	6100 5050 6800 5050
+Connection ~ 6800 5050
+Wire Wire Line
+	6800 5050 7500 5050
+Connection ~ 7500 5050
+Wire Wire Line
+	7500 5050 8200 5050
+Connection ~ 8200 5050
+Wire Wire Line
+	8200 5050 8900 5050
+Connection ~ 8900 5050
+Wire Wire Line
+	8900 5050 9600 5050
+Connection ~ 9600 5050
+Wire Wire Line
+	9600 5050 10300 5050
+Connection ~ 10300 5050
+Wire Wire Line
+	10300 5050 11000 5050
+Connection ~ 11000 5050
+Wire Wire Line
+	11000 5050 11700 5050
+Connection ~ 11700 5050
+Wire Wire Line
+	11700 5050 12400 5050
+Connection ~ 12400 5050
+Wire Wire Line
+	12400 5050 13100 5050
+Wire Wire Line
+	13100 5750 12400 5750
+Connection ~ 1900 5750
+Wire Wire Line
+	1900 5750 1200 5750
+Connection ~ 2600 5750
+Wire Wire Line
+	2600 5750 1900 5750
+Connection ~ 3300 5750
+Wire Wire Line
+	3300 5750 2600 5750
+Connection ~ 4000 5750
+Wire Wire Line
+	4000 5750 3300 5750
+Connection ~ 4700 5750
+Wire Wire Line
+	4700 5750 4000 5750
+Connection ~ 5400 5750
+Wire Wire Line
+	5400 5750 4700 5750
+Connection ~ 6100 5750
+Wire Wire Line
+	6100 5750 5400 5750
+Connection ~ 6800 5750
+Wire Wire Line
+	6800 5750 6100 5750
+Connection ~ 7500 5750
+Wire Wire Line
+	7500 5750 6800 5750
+Connection ~ 8200 5750
+Wire Wire Line
+	8200 5750 7500 5750
+Connection ~ 8900 5750
+Wire Wire Line
+	8900 5750 8200 5750
+Connection ~ 9600 5750
+Wire Wire Line
+	9600 5750 8900 5750
+Connection ~ 10300 5750
+Wire Wire Line
+	10300 5750 9600 5750
+Connection ~ 11000 5750
+Wire Wire Line
+	11000 5750 10300 5750
+Connection ~ 11700 5750
+Wire Wire Line
+	11700 5750 11000 5750
+Connection ~ 12400 5750
+Wire Wire Line
+	12400 5750 11700 5750
+Wire Wire Line
+	1800 5400 1800 4700
+Wire Wire Line
+	1800 6100 1800 5400
+Wire Wire Line
+	5300 5400 5300 4700
+Wire Wire Line
+	5300 6100 5300 5400
+Wire Wire Line
+	5300 5400 5350 5400
+Connection ~ 5300 5400
+Wire Wire Line
+	6000 5400 6000 4700
+Wire Wire Line
+	6000 6100 6000 5400
+Wire Wire Line
+	6000 5400 6050 5400
+Connection ~ 6000 5400
+Connection ~ 1800 5400
+Connection ~ 2500 5400
+Wire Wire Line
+	2500 6100 2500 5400
+Wire Wire Line
+	3900 4700 3900 5400
+Connection ~ 3900 5400
+Wire Wire Line
+	3900 5400 3900 6100
+Wire Wire Line
+	3200 4700 3200 5400
+Connection ~ 3200 5400
+Wire Wire Line
+	3200 5400 3200 6100
+Wire Wire Line
+	4600 4700 4600 5400
+Connection ~ 4600 5400
+Wire Wire Line
+	4600 5400 4600 6100
+Wire Wire Line
+	6700 4700 6700 5400
+Connection ~ 6700 5400
+Wire Wire Line
+	6700 5400 6700 6100
+Wire Wire Line
+	7400 4700 7400 5400
+Connection ~ 7400 5400
+Wire Wire Line
+	7400 5400 7400 6100
+Wire Wire Line
+	8100 4700 8100 5400
+Connection ~ 8100 5400
+Wire Wire Line
+	8100 5400 8100 6100
+Wire Wire Line
+	8800 4700 8800 5400
+Connection ~ 8800 5400
+Wire Wire Line
+	8800 5400 8800 6100
+Wire Wire Line
+	9500 4700 9500 5400
+Connection ~ 9500 5400
+Wire Wire Line
+	9500 5400 9500 6100
+Wire Wire Line
+	10200 4700 10200 5400
+Connection ~ 10200 5400
+Wire Wire Line
+	10200 5400 10200 6100
+Wire Wire Line
+	10900 4700 10900 5400
+Connection ~ 10900 5400
+Wire Wire Line
+	10900 5400 10900 6100
+Wire Wire Line
+	11600 4700 11600 5400
+Connection ~ 11600 5400
+Wire Wire Line
+	11600 5400 11600 6100
+Wire Wire Line
+	12300 4700 12300 5400
+Connection ~ 12300 5400
+Wire Wire Line
+	12300 5400 12300 6100
+Wire Wire Line
+	13000 4700 13000 5400
+Connection ~ 13000 5400
+Wire Wire Line
+	13000 5400 13000 6100
+Wire Wire Line
+	13700 4700 13700 5400
+Connection ~ 13700 5400
+Wire Wire Line
+	13700 5400 13700 6100
+$Comp
+L Keyboard_Parts:KEYSW K?
+U 1 1 6040B79B
+P 1500 4700
+F 0 "K?" H 1500 4933 60  0000 C CNN
+F 1 "KEYSW" H 1500 4600 60  0001 C CNN
+F 2 "" H 1500 4700 60  0000 C CNN
+F 3 "" H 1500 4700 60  0000 C CNN
+	1    1500 4700
+	1    0    0    -1  
+$EndComp
+Connection ~ 1800 4700
+Wire Wire Line
+	2500 4700 2500 5400
+Connection ~ 2500 4700
+Connection ~ 3200 4700
+Connection ~ 3900 4700
+Connection ~ 4600 4700
+Connection ~ 5300 4700
+Connection ~ 6000 4700
+Connection ~ 6700 4700
+Connection ~ 7400 4700
+Connection ~ 8100 4700
+Connection ~ 8800 4700
+Connection ~ 9500 4700
+Connection ~ 10200 4700
+Connection ~ 13700 4700
+Connection ~ 13000 4700
+Connection ~ 12300 4700
+Connection ~ 11600 4700
+Connection ~ 10900 4700
+$EndSCHEMATC
